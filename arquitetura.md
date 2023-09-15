@@ -18,3 +18,8 @@ O termo AMD64 (ou x64, ou ainda, x86-64) é usado como um padrão pelo Ubuntu pa
 
 A Lei de Moore foi publicada em 1965 por Gordon E. Moore, então cofundador da Fairchild Semiconductor. Ele publicou o artigo Cramming More Components onto Integrated Circuits em que defendia a inserção de cada vez mais componentes em circuitos integrados, de modo a investir na miniaturização para viabilizar o desenvolvimento de novos e melhores computadores.
 Moore especulou que em 1975, ou seja, dali a dez anos, um semicondutor de 63,5 cm2 conseguiria comportar cerca de 65 mil componentes, estipulando que o número dobraria a cada ano.
+
+##### ARM
+
+Arquiteturas ARM são o tipo de design eletrônico mais comum do mundo, ainda que a x86 seja a mais comum do mercado. Arquiteturas ARM são usadas em quase todos os designs de smartphone, além de em laptots e outros dispositivos menores.
+Os processadores ARM são projetados para equilibrar o custo por meio da redução de tamanho, consumo de energia e geração de calor e do aumento da velocidade e do potencial de vida da bateria.
