@@ -23,3 +23,13 @@ Moore especulou que em 1975, ou seja, dali a dez anos, um semicondutor de 63,5 c
 
 Arquiteturas ARM são o tipo de design eletrônico mais comum do mundo, ainda que a x86 seja a mais comum do mercado. Arquiteturas ARM são usadas em quase todos os designs de smartphone, além de em laptots e outros dispositivos menores.
 Os processadores ARM são projetados para equilibrar o custo por meio da redução de tamanho, consumo de energia e geração de calor e do aumento da velocidade e do potencial de vida da bateria.
+
+###### Referência
+
+ARCH64 e i386. (n.d.). Alura. Retrieved September 14, 2023, from https://cursos.alura.com.br/forum/topico-msi-arm-amd64-arch64-e-i386-166686
+
+Diana, D. (2015, October 21). O que é Arquitetura? Toda Matéria. https://www.todamateria.com.br/o-que-e-arquitetura/
+
+Gogoni, R., & Higa, P. (2019, February 4). O que diz a Lei de Moore? Tecnoblog; Mobilon Mídia LTDA. https://tecnoblog.net/responde/o-que-diz-a-lei-de-moore/
+
+O que é um processador ARM? (n.d.). Redhat.com. Retrieved September 15, 2023, from https://www.redhat.com/pt-br/topics/linux/what-is-arm-processor
